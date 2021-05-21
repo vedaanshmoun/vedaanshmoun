@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedaanshmoun
-- 👀 I’m interested in AI's 
+- 👀 I’m interested in AI Technology
 - 🌱 I’m currently learning how to write a perfect code
 - 💞️ I’m looking to collaborate on AI Coding and someone who can help me in advancing in coding
 - 📫 How to reach me ... mail me at pvs.ved4162@gmail.com
